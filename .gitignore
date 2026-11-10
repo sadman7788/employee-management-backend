@@ -1,0 +1,20 @@
+# Compiled class files
+target/
+*.class
+
+# Logs
+*.log
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# OS generated files
+.DS_Store
+
+# Uploaded Photos and Voice Notes (Do not upload these to Git)
+uploads/
+
+# DB files
+*.db
